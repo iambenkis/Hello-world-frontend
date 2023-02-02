@@ -48,17 +48,16 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Rails Backend] <a name="about-project"></a>
+# 📖 [React-Rails Hello-world] <a name="about-project"></a>
+
+
+### [Rails Backend Application](https://github.com/iambenkis/Hello-world-backend)
 
 
 
-# [Rails Backend Application](https://github.com/iambenkis/Hello-world-backend)
+> In this project I create a simple react rails application using API
 
 
-
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
