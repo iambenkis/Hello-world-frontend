@@ -3,11 +3,11 @@ import { combineReducers } from 'redux';
 import greetReduce from './greetSlice';
 
 const rootStore = combineReducers({
-  greeting : greetReduce
+  greeting: greetReduce,
 });
 
 const store = configureStore({
-  reducer: rootStore
+  reducer: rootStore,
 });
 
 export default store;
